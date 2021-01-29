@@ -1,2 +1,2 @@
-#!/bin/bahs
-ls -l /etc
+#!/bin/bash
+ls -a
