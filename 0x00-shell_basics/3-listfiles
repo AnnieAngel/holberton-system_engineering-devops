@@ -1,2 +1,2 @@
 #!/bin/bahs
-ls -l
+ls -l /etc
