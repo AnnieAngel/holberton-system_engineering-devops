@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map /n  
+echo -e $(ls  -map)"\n"  
