@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p. welcome/"s![[:space:]]! \!g"welcome/to/"s![[:space:]]! \!g"welcome/to/holberton
+mkdir -p welcome/"s![[:space:]]! \!g"/welcome/to/"s![[:space:]]! \!g"/welcome/to/holberton
