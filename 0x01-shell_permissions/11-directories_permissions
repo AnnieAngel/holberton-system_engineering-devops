@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive 555 
+chmod -R 555 
