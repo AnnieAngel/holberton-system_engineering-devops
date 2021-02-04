@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $myvar + 128
+expr TRUEKNOWLEDGE + 128
