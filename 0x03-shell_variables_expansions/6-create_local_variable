@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MYVAR1=BETTY
+echo $MYVAR1=Betty
