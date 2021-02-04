@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MYVARbetty=1
+BETTY="Holberton"
