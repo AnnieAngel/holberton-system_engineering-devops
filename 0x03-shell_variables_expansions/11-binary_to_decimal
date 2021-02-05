@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "OBASE=BINARY; 10"|bc\n
+echo "$((2#10))"\n
