@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $ls {a..z}{a..z}|tr " \t" "\n"|sed -e 's/oo//g'
