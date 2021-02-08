@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ls {a..z}{a..z}|tr " \t" "\n"|tr -d oo
+ echo $ls {a..z}{a..z}|tr " \t" "\n"|tr -s "\n*""oo"
